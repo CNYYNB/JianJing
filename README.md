@@ -4,7 +4,7 @@
 
 ## 下载
 
-到右边的 **Releases** 下载 `简境-2.2.exe`，双击就能用（Windows 10/11 64 位）。
+到右边的 **Releases** 下载 `JianJing-2.2.exe`，双击就能用（Windows 10/11 64 位）。
 
 - 第一次运行会自动把自己装到 `%LocalAppData%\XinCleaner`，并在桌面和开始菜单放「简境」快捷方式。
 - 不需要管理员权限，不需要另外装 .NET。
