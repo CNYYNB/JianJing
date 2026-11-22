@@ -1,6 +1,23 @@
+<div align="center">
+
 # 简境
 
-一个干净、不打扰的 Windows 电脑清理工具。没有广告、没有弹窗推荐、不装全家桶，删东西前都能先看清楚要删什么，大部分删除 30 天内能找回。
+**干净、不打扰的 Windows 清理工具**
+
+清缓存、找大文件和重复文件、卸软件清残留、管开机启动。删之前先预览，大部分删除 30 天内能找回。<br>
+免费 · 开源 · 无广告 · 无弹窗 · 不捆绑
+
+[![Release](https://img.shields.io/github/v/release/CNYYNB/JianJing?label=%E4%B8%8B%E8%BD%BD)](https://github.com/CNYYNB/JianJing/releases/latest)
+[![License](https://img.shields.io/github/license/CNYYNB/JianJing)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/CNYYNB/JianJing?style=social)](https://github.com/CNYYNB/JianJing/stargazers)
+
+<img src="docs/screenshots/overview.jpg" alt="简境概览" width="100%">
+
+</div>
+
+| 扫描清理 | 空间分析 |
+|---|---|
+| <img src="docs/screenshots/scan.jpg" alt="扫描清理"> | <img src="docs/screenshots/space.jpg" alt="空间分析"> |
 
 ## 下载
 
@@ -61,3 +78,7 @@ dotnet publish -c Release
 ## 许可证
 
 MIT
+
+---
+
+觉得好用的话，点右上角 ⭐ Star 支持一下，这是我继续更新的最大动力。有问题或想要的功能，欢迎提 [Issue](https://github.com/CNYYNB/JianJing/issues)。
